@@ -1,0 +1,14 @@
+version: 0.1
+
+phases:
+  build:
+    commands:
+      - echo "nothing needs to be done yet"
+
+  artifacts:
+    files:
+      - index.html
+      - favicon.ico
+      - VishalVazkar.pdf
+      - styles/*
+      - images/*
